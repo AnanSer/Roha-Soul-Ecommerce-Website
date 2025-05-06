@@ -1,0 +1,58 @@
+export const allProducts = [
+  {
+    id: 1,
+    name: "Fat Bum & Loss Weight",
+    price: 2500,
+    image: "/fatLoss.jpg",
+    category: "Health & Wellness",
+  },
+  {
+    id: 2,
+    name: "Back Belt",
+    price: 2000,
+    image: "/BackPostur.jpg?height=400&width=300",
+    category: "Health & Wellness",
+  },
+  {
+    id: 3,
+    name: "Dibso Lambency / ሸበት ማጥፊያ",
+    price: 2000,
+    image: "/ColorSpray.jpg?height=400&width=300",
+    category: "Beauty & Personal Care",
+  },
+  {
+    id: 4,
+    name: "Wifi Router and Power Bank ",
+    price: 6900,
+    image: "/wifiBank.jpg?height=400&width=300",
+    category: "Electronics & Gadgets",
+  },
+  {
+    id: 5,
+    name: "Mosquito Net/ አጎበር",
+    price: 2200,
+    image: "/mosquito.jpg?height=400&width=300",
+    category: "Home & Living",
+  },
+  {
+    id: 6,
+    name: "ጫማ መደረደሪያ / Shoe Rack",
+    price: 4000,
+    image: "/chamaMederderya.jpg?height=400&width=300",
+    category: "Home & Living",
+  },
+  {
+    id: 7,
+    name: "Nail Lanhome",
+    price: 2000,
+    image: "/nail.jpg?height=400&width=300",
+    category: "Health & Wellness",
+  },
+  {
+    id: 8,
+    name: "Airpods",
+    price: 1199.99,
+    image: "/headPhone.jpg?height=400&width=300",
+    category: "Electronics & Gadgets",
+  },
+];
